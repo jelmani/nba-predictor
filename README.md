@@ -31,6 +31,7 @@ The project focuses on:
 - Z-Score Normalization: applied to all features for faster gradient descent convergence
 
 - Cost Function & Gradient Descent: manually implemented to train model parameters
+- Regularization: used to increase accuracy of model
 
 ## How it works
 ### Data Collection
@@ -62,3 +63,4 @@ Despite that, the project was a great exercise in:
 - Experiment with regularization
 - Try non-linear models (tree-based or neural nets)
 - Improve opponent-based features (season-to-date instead of full-season averages)
+
